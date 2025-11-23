@@ -1,9 +1,9 @@
 /*
- * ChipAnchor: The Little UNIVAC AES Encryptor
- * AES-256-CBC Encryption
- *
- * Modern C implementation for Windows Console and UNIVAC
- * Portable implementation with platform-specific support
+ * Program Name: ChipAnchor
+ * Program Release Year: 2025
+ * Program Author: Steven S.
+ * Program Link: https://github.com/BitEU/ChipAnchor
+ * Purpose: A simple AES-256-CBC encrytor with Windows Console/UNIVAC 1219 support
  */
 
 #ifndef CHIPANCHOR_H
